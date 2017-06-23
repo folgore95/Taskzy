@@ -31,7 +31,6 @@ Some minor changes which the users have requested on the playstore are:
 
 More details in the issues. I could really use some help there.
 
-# LICENSE
 
 MIT License
 
